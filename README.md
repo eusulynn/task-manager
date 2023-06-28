@@ -18,7 +18,8 @@ The user can also keep track of their days by going to the 'progress' page, whic
 <img width="1440" alt="image" src="https://github.com/eusulynn/task-manager/assets/115979358/b758c665-dc6a-48ed-8134-8619167f9e35">
 
 ## How To Use Focus.
-You can sign up as a new user or log in with su@gmail.com password: 123456 to check out how I used the app.
+- You can sign up as a new user OR
+- Log in with su@gmail.com password: 123456 to check out how Su, a food enthusiast and web developer, uses the app.
 
 ## App Development Info
 - Ruby on Rails
