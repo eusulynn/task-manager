@@ -1,5 +1,5 @@
 # Focus. - a simple and aesthetic task manager for creatives
-## Description
+## Features
 Welcome to our unique task manager which allows the user to:
 - Add a photo as their 'highlight' of their day.
 - Edit the title of the day.
